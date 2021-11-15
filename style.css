@@ -1,3 +1,16 @@
 body {
     background: rgb(147, 183, 229);
 }
+
+h1 {
+    text-align: center;;
+}
+
+nav {
+    text-align: center;
+}
+
+#Open-Field {
+    display: block;
+    margin: auto;
+}
