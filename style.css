@@ -14,3 +14,14 @@ nav {
     display: block;
     margin: auto;
 }
+
+div h2 {
+    text-align: center;
+    background-color: green;
+}
+
+#Paragraph-One {
+    width: 900px;
+    text-align: center;
+    margin:auto;
+}
