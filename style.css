@@ -10,9 +10,27 @@ nav {
     text-align: center;
 }
 
-#Open-Field {
+/* #Open-Field {
     display: block;
     margin: auto;
+}
+
+#Trail {
+    display: block;
+    margin: auto;
+} */
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
+
+.images::after{
+    content: "";
+    clear: both;
+    display: table;
 }
 
 div h2 {
@@ -24,4 +42,8 @@ div h2 {
     width: 900px;
     text-align: center;
     margin:auto;
+}
+
+button {
+    background: orange
 }
